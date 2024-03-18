@@ -11,6 +11,9 @@ pybids = "^0.16.4"
 nibabel = "^5.2.0"
 nilearn = "^0.10.2"
 matplotlib = "^3.8.2"
+torch = "^2.2.1"
+torchvision = "^0.17.1"
+torchaudio = "^2.2.1"
 
 [tool.poetry.dev-dependencies]
 jupyter = "^1.0.0"
